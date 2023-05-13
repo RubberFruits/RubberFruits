@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **Angular, Typescript**
-
-- 📫 How to reach me: **vovik5545@gmail.com**
-
 <br>
 <h1 align="left">Skills</h1>
 
